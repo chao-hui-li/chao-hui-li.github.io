@@ -199,17 +199,50 @@ a:hover {
   white-space: nowrap;
 }
 
+.talk-list {
+  list-style: disc;
+}
+
+.talk-item {
+  margin-bottom: 1.5rem;
+}
+
+.talk-title {
+  color: #222;
+  font-size: 1.05em;
+  font-weight: bolder;
+  line-height: 1.4;
+  margin: 0 0 5px;
+}
+
+.talk-meta {
+  color: #595959;
+  font-size: 0.95em;
+  line-height: 1.5;
+  margin: 0 0 4px;
+}
+
+.talk-meta time {
+  white-space: nowrap;
+}
+
+.talk-highlight {
+  margin: 5px 0 0;
+}
+
 @media (prefers-color-scheme: dark) {
   a,
   a:hover {
     color: #3eb7f0;
   }
 
-  .education-institution {
+  .education-institution,
+  .talk-title {
     color: #eeeff0;
   }
 
-  .education-year {
+  .education-year,
+  .talk-meta {
     color: #c6c7cb;
   }
 }

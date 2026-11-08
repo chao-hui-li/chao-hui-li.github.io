@@ -172,6 +172,37 @@ a:hover {
   white-space: nowrap;
 }
 
+.talk-list {
+  list-style: disc;
+}
+
+.talk-item {
+  margin-bottom: 1.5rem;
+}
+
+.talk-title {
+  color: #222;
+  font-size: 1.05em;
+  font-weight: bolder;
+  line-height: 1.4;
+  margin: 0 0 5px;
+}
+
+.talk-meta {
+  color: #595959;
+  font-size: 0.95em;
+  line-height: 1.5;
+  margin: 0 0 4px;
+}
+
+.talk-meta time {
+  white-space: nowrap;
+}
+
+.talk-highlight {
+  margin: 5px 0 0;
+}
+
 .wrapper {
   column-gap: 72px;
   display: grid;

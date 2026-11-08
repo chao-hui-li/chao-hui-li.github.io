@@ -81,6 +81,8 @@ My research interests are in bioinformatics and computational biology, particula
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/talks.md %}
+
 ## Selected Awards
 - **Conference Fellowship**, 34th Conference on Intelligent Systems for Molecular Biology (ISMB), 2026
 - **CityU Mainland Student Scholarship** (Full Tuition), City University of Hong Kong, 2017-2021

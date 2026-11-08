@@ -1,0 +1,32 @@
+main:
+  # The ISCB recap confirms the presenter, date, track, and topic.
+  - title: "BFBArchitect: detecting and reconstructing BFB cycles from long-read sequencing"
+    event: "ISMB 2026"
+    event_url: https://www.iscb.org/about-iscb/society-communications/announcements/july-14-2026-ismb-2026-day-2-highlights-and-recap
+    date: "2026-07-13"
+    date_label: July 2026
+    location: "Washington, D.C."
+    # highlight: "Integer linear programming for reconstructing BFB rearrangements from long reads and distinguishing them from ecDNA amplifications."
+
+  # The organizer confirms November 18–19 and the venue, but does not list
+  # individual talks. The user confirms presenting ec3D; the heading is a
+  # project label, not a verified verbatim talk title. The highlight summarizes
+  # the research: https://doi.org/10.1038/s41467-025-67614-7
+  - title: "ec3D: three-dimensional reconstruction of extrachromosomal DNA"
+    event: "eDyNAmiC Annual Research Retreat & Symposium"
+    event_url: https://edynamic.org/team-edynamic-year-4-research-retreat-symposium/
+    date: "2025-11"
+    date_label: November 2025
+    location: "Stanford University, California"
+    # highlight: "Hi-C-based reconstruction of ecDNA spatial organization, with insights into long-range interactions and oncogene regulation."
+
+  # Presenter, session, date, venue, and abstract are in the official program,
+  # pages 18 and 55. The displayed title abbreviates "three-dimensional" to
+  # "3D" at the user's request. The event link opens the abstract.
+  - title: "The 3D structure of extrachromosomal DNA reveals novel conformation changes"
+    event: "NIH/NCI ITCR Annual Meeting"
+    event_url: https://img1.wsimg.com/blobby/go/423d67f6-e915-468e-bf4f-caaeb7a829e0/ITCR%202024%20full%20program.pdf#page=55
+    date: "2024-09-18"
+    date_label: September 2024
+    location: "Indianapolis, Indiana"
+    # highlight: "Introduced ec3D for modeling circular ecDNA from Hi-C, resolving duplicated segments, and visualizing its three-dimensional conformation."

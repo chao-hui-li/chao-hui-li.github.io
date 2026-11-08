@@ -34,8 +34,9 @@ main:
     # conference_short: CVPR
     conference: Briefings in Bioinformatics, 2021
     paper: https://doi.org/10.1093/bib/bbab452
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://sc.deepomics.org/
+    code: https://github.com/deepomicslab/scSVAS
+    # The original project site refused connections during the 2026-11-08 review.
+    # page: https://sc.deepomics.org/
     bibtex: https://scholar.google.com/scholar?q=info:qYqVcclkA6kJ:scholar.google.com/&output=cite&hl=en
     # notes: Oral Presentation
     image: ./assets/img/SVAS.png
