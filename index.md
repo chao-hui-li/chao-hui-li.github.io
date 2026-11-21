@@ -4,18 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in Computer Science advised by Prof. [Vineet Bafna](https://vbafna.github.io/){:target="_blank" rel="noopener"} at the University of California San Diego, where I also earned a Master's degree in Computer Science. I received a Bachelor's degree in Computer Science from City University of Hong Kong, where I was advised by Prof. [Shuai Cheng Li](https://www.cs.cityu.edu.hk/~shuaicli/){:target="_blank" rel="noopener"}.
+I am a Ph.D. student in Computer Science advised by Prof. [Vineet Bafna](https://vbafna.github.io/){:target="_blank" rel="noopener"} at the University of California San Diego, where I also earned a master's degree. I received a bachelor's degree in Computer Science from City University of Hong Kong, where I was fortunate to be advised by Prof. [Shuai Cheng Li](https://www.cs.cityu.edu.hk/~shuaicli/){:target="_blank" rel="noopener"}.
 
 ## Research Interests
 
-My research interests are in bioinformatics and computational biology, particularly applied algorithms on cancer genomics and complex structural variants. I am broadly interested in designing optimization and machine learning methods that can efficiently and effectively make core scientific insights into biology and medicine.
+My research interests are in bioinformatics and computational biology, particularly algorithmic approaches to studying cancer genomes and complex genome rearrangements. I am broadly interested in designing optimization and machine learning methods that can efficiently and effectively provide fundamental scientific insights into biology and medicine.
 
 ## News
 - **[September 2026]** Completed a 3-month internship at Meta as a Research Intern working on reinforcement learning models for feed recommendations.
 - **[July 2026]** Our [paper](https://doi.org/10.1093/bioinformatics/btag225){:target="_blank" rel="noopener"} on "detecting and reconstructing BFB cycles from long-read sequencing data" was published in *Bioinformatics*.
 - **[May 2026]** Our latest paper on BFB has been accepted for presentation at [ISMB 2026](https://www.iscb.org/ismb2026/home){:target="_blank" rel="noopener"}.
 - **[December 2025]** Our [paper](https://doi.org/10.1038/s41467-025-67614-7){:target="_blank" rel="noopener"} on "reconstructing the 3D structure of ecDNA from Hi-C data" was published in *Nature Communications*.
-- **[June 2025]** I earned a Master's degree in Computer Science from UC San Diego.
+- **[June 2025]** I earned a master's degree in Computer Science from UC San Diego.
 
 ## Education
 
